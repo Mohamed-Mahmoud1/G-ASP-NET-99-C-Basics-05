@@ -6,7 +6,7 @@ namespace project05
 {
      enum Genre
     {
-        Fiction,
+        Fiction=1,
         NonFiction, 
         Science
     }
