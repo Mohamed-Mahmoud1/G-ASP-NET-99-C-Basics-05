@@ -44,6 +44,13 @@
             //Genre gern = (Genre)genreNumber;
             //Console.WriteLine(gern);
             #endregion
+
+            #region Question07
+            //7.Given Genre genre = Genre.Fiction;, convert it into a string using ToString() and print it.
+            //Genre genre = Genre.Fiction;
+            //string s_genre = genre.ToString();
+            //Console.WriteLine(s_genre);
+            #endregion
         }
     }
 }
