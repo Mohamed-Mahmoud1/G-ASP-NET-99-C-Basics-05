@@ -7,5 +7,6 @@ namespace project05
     internal class Book
     {
         private string Password = "secret";
+        internal int copiesInStock = 5;
     }
 }
