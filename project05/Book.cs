@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace project05
+{
+    internal class Book
+    {
+        private string Password = "secret";
+    }
+}
