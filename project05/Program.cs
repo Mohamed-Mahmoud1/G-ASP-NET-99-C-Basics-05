@@ -15,6 +15,13 @@
             //Book book = new Book();
             //Console.WriteLine(book.copiesInStock);// This line will work because (copiesInStock) is internal and can be accessed from the same project.
             #endregion
+
+            #region Question03
+            //3.Add a public string Title; field to Book. Set it and print it from Main.
+            //Book book = new Book();
+            //book.Title = "C# Basics";
+            //Console.WriteLine(book.Title);// This line will work because (Title) is public and can be accessed from anywhere.
+            #endregion
         }
     }
 }

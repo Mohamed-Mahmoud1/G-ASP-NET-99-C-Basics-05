@@ -8,5 +8,6 @@ namespace project05
     {
         private string Password = "secret";
         internal int copiesInStock = 5;
+        public string Title;
     }
 }
