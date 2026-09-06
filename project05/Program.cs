@@ -22,6 +22,13 @@
             //book.Title = "C# Basics";
             //Console.WriteLine(book.Title);// This line will work because (Title) is public and can be accessed from anywhere.
             #endregion
+
+            #region Question04
+            //4.Declare an enum Genre { Fiction, NonFiction, Science }. Add a Genre property to Book, assign it Genre.Science, and print it
+            //Book book = new Book();
+            //book.Genre = Genre.Science;
+            //Console.WriteLine(book.Genre);
+            #endregion
         }
     }
 }
